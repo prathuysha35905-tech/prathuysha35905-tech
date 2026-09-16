@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**prathuysha35905-tech/prathuysha35905-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Readme · MD
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kamineni%20Divya%20Sai%20Prathyusha&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Prompt%20Engineer&descAlignY=55&descSize=18" /> <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20SDE%20Internships-7B5CFF?style=for-the-badge&labelColor=0f0c29" /> <img src="https://img.shields.io/badge/Based%20in-Vizag,%20India-00D9FF?style=for-the-badge&labelColor=0f0c29" /> <img src="https://komarev.com/ghpvc/?username=prathuysha35905-tech&style=for-the-badge&color=7B5CFF&label=PROFILE+VIEWS" /> </div> <br/>
+📌 About Me
+javascript
+const divya = {
+  role: "Full-Stack Developer | AI Engineer | Prompt Engineer",
+  education: "B.Tech, Information Technology, Andhra University",
+  year: "3rd Year • Class of 2028",
+  cgpa: "8.75 / 10",
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  focus: ["Multi-Agent Systems", "LLM Orchestration", "REST APIs", "Full-Stack Dev"],
+  exploring: ["Model loading & inference", "Agentic workflows"],
+  openTo: "Software Development / AI Engineering Internships"
+};
+"Anyone can call an API. The engineering is in knowing which one to call, and why."
+
+<br/>
+🤝 Connect With Me
+<div align="center">
+<a href="mailto:prathuysha35905@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/prathuysha35905-tech"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://github.com/prathuysha35905-tech?tab=repositories"><img src="https://img.shields.io/badge/Projects-7B5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div> <br/>
+🛠️ Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts,react,fastapi,tailwind,bootstrap,git,github,vscode&theme=dark&perline=8" /> </div> <br/>
+📊 GitHub Analytics
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=prathuysha35905-tech&show_icons=true&count_private=true&hide_border=true&title_color=7B5CFF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathuysha35905-tech&layout=compact&hide_border=true&title_color=7B5CFF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" /> <br/> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prathuysha35905-tech&hide_border=true&background=0d1117&stroke=7B5CFF&ring=7B5CFF&fire=00D9FF&currStreakLabel=7B5CFF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<br/><br/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prathuysha35905-tech&bg_color=0d1117&color=c9d1d9&line=7B5CFF&point=00D9FF&area=true&area_color=7B5CFF&hide_border=true" /> </div> <br/>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=prathuysha35905-tech&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" /> </div> <br/>
+🚀 Featured Projects
+<div align="center">
+Project	What It Does
+🧠	Cinq
+<sub>Multi-Agent Router</sub>	AI orchestration layer that classifies incoming requests and delegates them to specialized agents — modular architecture, prompt-engineered LLM decision-making.
+🎬	Luki
+<sub>AI Movie Recommender</sub>	End-to-end recommendation engine processing movie data and user preferences, wired into a clean user-facing interface.
+✅	Cortex
+<sub>AI To-Do Assistant</sub>	Full-stack TypeScript app with auth, token-based sessions, REST APIs, and AI-powered task management.
+</div> <br/>
+📈 Currently
+▸ Going deeper on model loading, inference, and task generation
+▸ Building agentic workflows that chain tools, memory, and reasoning
+▸ Sharpening DSA in Java
+▸ Looking for an SDE / AI Engineering internship — let's talk
+<br/> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" /> </div>
+
