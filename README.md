@@ -1,47 +1,46 @@
 
 
 Readme · MD
-<table> <tr> <td width="26%" valign="top"> <div align="center"> <img src="https://github.com/prathuysha35905-tech.png" width="140" style="border-radius:50%;border:3px solid #7B5CFF"/>
-<br/><br/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=200&section=header&text=Divya%20Sai%20Prathyusha&fontSize=42&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
+<a href="https://github.com/prathuysha35905-tech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:prathuysha35905@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-Divya Sai Prathyusha
-prathuysha35905-tech · she/her
+</div> <br>
+🧰 Technologies
+<div align="center">
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
-<br/>
-Full-Stack Developer · AI Engineer · Prompt Engineer, currently building multi-agent LLM systems. B.Tech IT student at Andhra University, 3rd year, exploring model inference and agentic workflows.
+</div> <br>
+📊 Statistics
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathuysha35905-tech&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<br><br>
 
-<br/>
-Open to Internships
+<table> <tr> <td align="center"><b>8.75</b><br/><sub>CGPA / 10</sub></td> <td align="center"><b>3rd Year</b><br/><sub>Class of 2028</sub></td> <td align="center"><b>3</b><br/><sub>Featured Projects</sub></td> </tr> </table> </div> <br>
+👩‍💻 About Me
+<img align="left" src="https://api.dicebear.com/7.x/shapes/svg?seed=Divya" width="90" style="border-radius:50%; margin-right:16px;"/>
+I'm Divya, a Full-Stack Developer and AI Engineer currently pursuing a B.Tech in Information Technology at Andhra University. My work centers on multi-agent systems, LLM orchestration, and API-driven architectures — I enjoy designing systems where multiple AI agents collaborate intelligently rather than relying on a single general-purpose model. Alongside this, I'm building hands-on experience with model inference and agentic workflows, while steadily strengthening my data structures and algorithms foundation in Java.
 
-<br/><br/>
-
-📧 prathuysha35905@gmail.com <br/> 🔗 github.com/prathuysha35905-tech
-
-<br/><br/>
-
-Focus Areas <br/> Multi-Agent Systems · LLM Orchestration <br/> REST APIs · Full-Stack Dev
-
-</div> </td> <td width="74%" valign="top"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B5CFF,100:00D9FF&height=140&section=header&text=Welcome%20to%20Divya's%20Profile&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40" /> <br/> <div align="center">
-GitHub   Gmail
-
-</div> <br/>
-🧩 Technologies
-<div align="center"> <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts&theme=dark&perline=7" /> <br/><br/> <img src="https://skillicons.dev/icons?i=react,fastapi,tailwind,bootstrap,git,github,vscode&theme=dark&perline=7" /> </div> <br/>
-📈 Statistics
-<div align="center"> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=prathuysha35905-tech&bg_color=0d1117&color=00D9FF&line=7B5CFF&point=ffffff&area=true&area_color=7B5CFF&hide_border=true&title_color=7B5CFF&text_color=c9d1d9" />
-<br/><br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prathuysha35905-tech&show_icons=true&count_private=true&hide_border=true&title_color=7B5CFF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" /> &nbsp; <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathuysha35905-tech&layout=compact&hide_border=true&title_color=7B5CFF&text_color=c9d1d9&bg_color=0d1117" /> </div> <br/>
-🙋 About Me
-Hello! My name is Divya, a Full-Stack Developer and AI Engineer currently learning more about model loading, inference, and agentic workflows. I enjoy working on multi-agent orchestration projects, prompt engineering, and building full-stack apps with modern JavaScript and Python tooling, while sharpening my DSA fundamentals in Java and looking ahead to an SDE / AI Engineering internship.
-
-<br/>
+<br clear="left"/>
 🚀 Featured Projects
-🧠 Cinq — Multi-agent router that classifies incoming requests and delegates them to specialized agents
-🎬 Luki — AI movie recommender turning movie data and preferences into suggestions
-✅ Cortex — Full-stack TypeScript to-do assistant with token auth and AI-powered task management
-<br/> <div align="center">
-"Currently going deeper on model loading, inference, and agentic workflows — one commit at a time."
+<table> <tr> <td width="33%" valign="top">
+🔀 Cinq — Intelligent Multi-Agent Router
 
-</div> <br/> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B5CFF,100:4B0082&height=100&section=footer" /> </td> </tr> </table>
+An AI orchestration layer that analyzes incoming requests and routes them to specialized agents based on intent. Built around a modular architecture with prompt-engineered decision logic for request classification and delegation.
+
+</td> <td width="33%" valign="top">
+🎬 Luki — AI Movie Recommender
+
+An end-to-end recommendation system that transforms movie metadata and user preferences into personalized suggestions, integrating recommendation logic with a connected frontend and backend.
+
+</td> <td width="33%" valign="top">
+✅ Cortex — AI To-Do Assistant
+
+A full-stack productivity application built with TypeScript, featuring token-based authentication, protected routes, and AI-assisted task management across a structured client-server architecture.
+
+</td> </tr> </table> <br> <div align="center">
+"Going deeper into model inference and agentic workflows — one commit at a time."
+
+📍 Open to SDE / AI Engineering internship opportunities
+
+</div>
+
 
